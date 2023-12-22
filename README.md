@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Mr-pasifik19&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=algolia&column=-1&no-bg=true&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Mr-pasifik19&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=algolia&column=-1&no-bg=true&no-frame=true&margin-w=8)
 
 </div>
 
